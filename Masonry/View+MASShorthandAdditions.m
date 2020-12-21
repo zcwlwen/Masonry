@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+#ifdef MAS_SHORTHAND
+
 
 #define MAS_ATTR_FORWARD(attr)  \
 - (MASViewAttribute *)attr {    \
