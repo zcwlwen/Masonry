@@ -6,10 +6,7 @@
 //  Copyright © 2020 Jonas Budelmann. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-
-#ifdef MAS_SHORTHAND
-
+#import "View+MASShorthandAdditions.h"
 
 #define MAS_ATTR_FORWARD(attr)  \
 - (MASViewAttribute *)attr {    \
@@ -79,5 +76,3 @@ MAS_ATTR_FORWARD_AVAILABLE(safeAreaLayoutGuideCenterY, NS_AVAILABLE_IOS(11.0));
 }
 
 @end
-
-#endif

@@ -6,10 +6,7 @@
 //  Copyright © 2020 Jonas Budelmann. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-
-#ifdef MAS_SHORTHAND
-
+#import "NSArray+MASShorthandAdditions.h"
 
 @implementation NSArray (MASShorthandAdditions)
 
@@ -26,5 +23,3 @@
 }
 
 @end
-
-#endif

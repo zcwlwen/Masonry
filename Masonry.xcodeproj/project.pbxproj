@@ -145,6 +145,7 @@
 				3AED05EA1AD5A0470053CC65 /* NSArray+MASAdditions.h */,
 				3AED05EB1AD5A0470053CC65 /* NSArray+MASAdditions.m */,
 				3AED05EC1AD5A0470053CC65 /* NSArray+MASShorthandAdditions.h */,
+				243D17A62590A9F1008BB078 /* NSArray+MASShorthandAdditions.m */,
 				3AED05DE1AD5A0470053CC65 /* MASConstraint.h */,
 				3AED05E01AD5A0470053CC65 /* MASConstraint+Private.h */,
 				3AED05DF1AD5A0470053CC65 /* MASConstraint.m */,
@@ -161,7 +162,6 @@
 				3AED05ED1AD5A0470053CC65 /* NSLayoutConstraint+MASDebugAdditions.h */,
 				3AED05EE1AD5A0470053CC65 /* NSLayoutConstraint+MASDebugAdditions.m */,
 				3AED05BA1AD59FD40053CC65 /* Supporting Files */,
-				243D17A62590A9F1008BB078 /* NSArray+MASShorthandAdditions.m */,
 			);
 			path = Masonry;
 			sourceTree = "<group>";
